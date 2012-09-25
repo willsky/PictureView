@@ -6,7 +6,6 @@ Created on 2012-6-21
 @author: will
 '''
 import eventlet
-import tornado
 
 def main():
     print "Hello world"
